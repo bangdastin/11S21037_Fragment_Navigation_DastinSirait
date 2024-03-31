@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">WhatsApp</string>
+    <string name="info_chat_icon">Ikon chat</string>
+    <string name="info_nama_kontak">Nama Kontak</string>
+    <string-array name="nama_kontak">
+        <item>Boy Sitorus</item>
+        <item>Gerry Benyamin</item>
+        <item>Jayfline Hutagalung</item>
+        <item>Gerald Sidabutar</item>
+        <item>Rifqi Haiqal</item>
+        <item>David Gurning</item>
+        <item>Rafael Manurung</item>
+        <item>Archico Sembiring</item>
+        <item>Dedi Panggabean</item>
+
+    </string-array>
+
+    <string-array name="chat_icon">
+        <item>@drawable/img</item>
+        <item>@drawable/ic_person</item>
+        <item>@drawable/img_1</item>
+        <item>@drawable/gerald</item>
+        <item>@drawable/img_2</item>
+        <item>@drawable/ic_person</item>
+        <item>@drawable/ic_person</item>
+        <item>@drawable/img_3</item>
+        <item>@drawable/ic_person</item>
+    </string-array>
+
+
+</resources>
